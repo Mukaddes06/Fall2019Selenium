@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="236f3859-6297-422e-94c2-e881526d0009" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583090864902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created basic navigation2">
+      <created>1583092837299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583092837299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created basic navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created basic navigation" />
+    <MESSAGE value="Created basic navigation2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created basic navigation2" />
   </component>
 </project>
