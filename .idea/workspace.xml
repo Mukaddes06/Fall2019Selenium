@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="236f3859-6297-422e-94c2-e881526d0009" name="Default Changelist" comment="" />
+    <list default="true" id="236f3859-6297-422e-94c2-e881526d0009" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -271,7 +273,28 @@
       <option name="project" value="LOCAL" />
       <updated>1586300297744</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework3(6)">
+      <created>1586300345632</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586300345632</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Homework3(7, 8)">
+      <created>1586300391611</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586300391611</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework3(9 to 12)">
+      <created>1586300428878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586300428878</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +316,10 @@
     <MESSAGE value="Created basic navigation2" />
     <MESSAGE value="Created basic navigation3" />
     <MESSAGE value="Homework3(1 to 5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework3(1 to 5)" />
+    <MESSAGE value="Homework3(6)" />
+    <MESSAGE value="Homework3(7, 8)" />
+    <MESSAGE value="Homework3(9 to 12)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3(9 to 12)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="643" y="220" key="#Homework3_7" timestamp="1586230664904">
@@ -312,10 +338,10 @@
       <screen x="0" y="0" width="1849" height="1080" />
     </state>
     <state x="299" y="470" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586068498857" />
-    <state x="560" y="136" key="CommitChangelistDialog2" timestamp="1586300415252">
+    <state x="560" y="136" key="CommitChangelistDialog2" timestamp="1586300428247">
       <screen x="0" y="0" width="1849" height="1080" />
     </state>
-    <state x="560" y="136" key="CommitChangelistDialog2/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586300415252" />
+    <state x="560" y="136" key="CommitChangelistDialog2/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586300428247" />
     <state x="439" y="273" key="FileChooserDialogImpl" timestamp="1585715023169">
       <screen x="0" y="0" width="1819" height="1080" />
     </state>
