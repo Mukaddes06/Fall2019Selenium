@@ -1,138 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="236f3859-6297-422e-94c2-e881526d0009" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Fall2019Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smoke_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/CollectionOH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/JavaMapOH1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/JavaScripts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/SeleniumOH1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/dataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OfficeHours/vytrackoh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/HW3/Homework1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/HW3/Homework6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/HW3/Homework7_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/HW3/Homework9_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/Utilities/BrowserUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homework/Utilities/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homeworks/AddToCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homeworks/RandomSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/Homeworks/YearsMonthDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/AbstractPageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/fleet/VehiclesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/ActionsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/JSExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/JSExecutor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/FluentWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/ImplicitWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/WarmUpTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/WebOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/ConfigurationReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/DriverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/SystemProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/GoogleSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/FindElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/VerifyThatElementIsGone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/WarmUP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/FileUploading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/NestedFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/TestForiFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/NoSelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByTextMultipleOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/BasicTestNGTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/PracticeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/UnitTestPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/practice/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/AbstractTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CalendarEventsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CallsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/NewVehiclesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/VehiclesPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DateTimeUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.htmlcalendarEvents .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.htmllogin .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.htmlreport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.htmlsmoke .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-37-03_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-37-52_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-53-33_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-54-19_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-56-09_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-57-29_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-58-58_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_01-59-42_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-00-27_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-03-34_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-27-25_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-28-10_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-30-43_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-31-27_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-32-12_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-35-24_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_02-36-08_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-16-44_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-17-27_CDT_2020_createCalendarEventTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-35-16_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-35-35_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-41-14_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-41-37_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-41-59_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-42-29_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-42-52_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-43-13_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-43-33_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-44-52_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-45-15_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-45-35_CDT_2020_loginWithDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-45-56_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-46-15_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-47-46_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-47-47_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-49-58_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Sun_Apr_05_15-59-17_CDT_2020_warning_message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Tue_Mar_31_19-16-59_CDT_2020_loginPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Tue_Mar_31_19-28-33_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Wed_Apr_01_00-32-01_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Wed_Apr_01_00-55-24_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Wed_Apr_01_01-24-29_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Wed_Apr_01_15-31-29_CDT_2020_defaultOptionsTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day1/MyFirstSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day1/MyFirstSeleniumScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/JumpToTheNewWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/JumpToTheNewWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementById.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day1/MyFirstSeleniumScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day1/MyFirstSeleniumScript.class" afterDir="false" />
-    </list>
+    <list default="true" id="236f3859-6297-422e-94c2-e881526d0009" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -395,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583293948615</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Homework3(1 to 5)">
+      <created>1586300297744</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586300297744</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +292,8 @@
     <MESSAGE value="Created basic navigation" />
     <MESSAGE value="Created basic navigation2" />
     <MESSAGE value="Created basic navigation3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created basic navigation3" />
+    <MESSAGE value="Homework3(1 to 5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3(1 to 5)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="643" y="220" key="#Homework3_7" timestamp="1586230664904">
@@ -435,6 +312,10 @@
       <screen x="0" y="0" width="1849" height="1080" />
     </state>
     <state x="299" y="470" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586068498857" />
+    <state x="560" y="136" key="CommitChangelistDialog2" timestamp="1586300319726">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="560" y="136" key="CommitChangelistDialog2/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586300319726" />
     <state x="439" y="273" key="FileChooserDialogImpl" timestamp="1585715023169">
       <screen x="0" y="0" width="1819" height="1080" />
     </state>
@@ -459,6 +340,10 @@
     </state>
     <state width="1776" height="218" key="GridCell.Tab.0.right/0.0.1819.1080/1920.0.1858.1080@0.0.1819.1080" timestamp="1585773393683" />
     <state width="1806" height="295" key="GridCell.Tab.0.right/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586288006441" />
+    <state x="516" y="275" key="Vcs.Push.Dialog.v2" timestamp="1586300301028">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="516" y="275" key="Vcs.Push.Dialog.v2/0.0.1849.1080/1920.0.1858.1080@0.0.1849.1080" timestamp="1586300301028" />
     <state x="627" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1586284107273">
       <screen x="0" y="0" width="1849" height="1080" />
     </state>
